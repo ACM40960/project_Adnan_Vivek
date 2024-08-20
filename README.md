@@ -93,7 +93,12 @@ if not os.path.exists(data_path):
     print(f"'{data_path}' directory created successfully!")
 else:
     print(f"'{data_path}' directory already exists.")
-```   
+```
+
+All the code used in the project is presented in one singular .ipynb file which deeply explains the project
+The file name is Final_Project_Symphony_Sense.ipynb. Kindly follow the below instructions for an smooth experience.
+
+
 Place all your audio files in this data folder.
 Note: The paths in the code are configured to look for files in MyDrive/data/. Ensure that your audio files are correctly placed in this directory.
 
