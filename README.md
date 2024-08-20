@@ -50,13 +50,13 @@ For example, in a stereo recording of a live concert, the guitar might be more p
 
 The neural network is designed using TensorFlow and is trained on the extracted features (MFCCs and Delta MFCCs) to classify different musical instruments. The model's architecture is tailored to process the spectral and temporal features captured by these coefficients.
 
-![NN Architecture](NN Architecture.jpg)
+![NN Architecture](NN.jpg)
 
 ### Evaluation Metrics
 
 The model's performance is evaluated using a confusion matrix and classification report. These tools help visualize the accuracy of the model and identify any areas for improvement.
 
-![Confusion Matrix](Confusion Matrix.jpg)
+![Confusion Matrix](CM.jpg)
 
 The confusion matrix above shows the model's performance in classifying different musical instruments. Each row represents the true class, while each column represents the predicted class. The diagonal elements indicate correct predictions.
 
