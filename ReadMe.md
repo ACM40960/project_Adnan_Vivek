@@ -21,7 +21,7 @@ Symphony Sense is a tool that aims to identify musical instruments and chords by
 
 MFCCs are widely used features in audio processing that represent the short-term power spectrum of sound. They are particularly effective in capturing the timbral characteristics of audio signals, making them invaluable for tasks such as speech recognition and music analysis.
 
-![MFCC](MFCC.png)
+![MFCC](MFCC.jpg)
 
 
 ### Delta MFCCs
