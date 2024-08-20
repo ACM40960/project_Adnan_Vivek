@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Symphony Sense** is a sophisticated machine learning project designed to automatically recognize musical instruments and chords from audio recordings. Leveraging advanced audio processing techniques, particularly Mel Frequency Cepstral Coefficients (MFCCs) and their temporal derivatives (Delta MFCCs), along with TensorFlow-based neural networks, this project aims to classify and identify different musical components from sound files.
+**Symphony Sense** is a sophisticated machine learning project designed to automatically recognize orchestral musical instruments from audio recordings. Leveraging advanced audio processing techniques, particularly Mel Frequency Cepstral Coefficients (MFCCs) and their temporal derivatives (Delta MFCCs), along with neural networks, this project aims to classify and identify different musical components from sound files.
 
 This project was developed by **Syed Adnan Ali** and **Venkata Vivek Kumar Mudunuru**.
 
