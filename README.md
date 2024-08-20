@@ -8,7 +8,7 @@ This project was developed by **Syed Adnan Ali** and **Venkata Vivek Kumar Mudun
 
 ## Project Overview
 
-Symphony Sense is a tool that aims to identify musical instruments and chords by analyzing audio data. The project involves several stages, including the extraction of features from audio files, training a neural network to recognize patterns, and evaluating the model's performance. The main components include:
+Symphony Sense is a tool that aims to identify musical instruments by analyzing audio data which includes its chords. The project involves several stages, including the extraction of features from audio files, training a neural network to recognize patterns, and evaluating the model's performance. The main components include:
 
 - **Feature Extraction**: Using MFCCs and Delta MFCCs to capture the spectral and temporal characteristics of audio files.
 - **Chord Detection**: Identifying chords within audio files using chroma features and templates for major, minor, and noise chords.
