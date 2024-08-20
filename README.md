@@ -1,4 +1,4 @@
-# Symphony Sense: Instrument and Chord Recognition System
+# Symphony Sense: Orchestral Instrument Recognition System
 
 ## Introduction
 
